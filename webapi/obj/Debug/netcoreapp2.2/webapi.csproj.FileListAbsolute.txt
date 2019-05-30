@@ -1,0 +1,3 @@
+C:\Users\jakub.rozycki\source\repos\basicapi\webapi\obj\Debug\netcoreapp2.2\webapi.csproj.CoreCompileInputs.cache
+C:\Users\jakub.rozycki\source\repos\basicapi\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfoInputs.cache
+C:\Users\jakub.rozycki\source\repos\basicapi\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfo.cs
